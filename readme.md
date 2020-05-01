@@ -3,7 +3,7 @@
 ## Developer 
 Mudasir Afzal
 
-<a href="http://mstechlabs.com/vanilla/expensecal/">Demo Link</a>
+<a href="http://mstechlabs.com/vanilla/expensecal/">Demo Link</a><br>
 Keep track of income and expenses. Add and remove items and save to local storage
 
 ## Project Specifications
